@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm Rekik Samson
 
-<!--
-**rcodes-ix/rcodes-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn ideas into AI-powered products using Python | Learning fast, building faster
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building AI-powered tools and automation systems  
+- Improving my Python and problem-solving skills  
+- Learning UI/UX design with Figma  
+
+---
+
+## 🧠 Projects
+
+🔹 Recommendation Engine  
+A system that generates suggestions based on user behavior and logic.
+
+🔹 Password Generator  
+A secure and customizable password generator built with Python.
+
+🔹 Mimobot  
+A chatbot combining rule-based logic with simple learning mechanisms to adapt responses.
+
+---
+
+## 🛠 Skills
+- Python  
+- AI & Automation (foundations)  
+- HTML, CSS, JavaScript (basics)  
+- UI/UX Design (Figma)  
+
+---
+
+## 🎯 Goal
+To build real-world AI products and grow into a strong AI product engineer.
+
+---
+
+## 📫 Contact
+- Email: rekiksamson5@gmail.com  
+- LinkedIn: www.linkedin.com/in/rekik-samson-679594402
