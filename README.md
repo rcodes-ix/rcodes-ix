@@ -1,42 +1,33 @@
-# 👋 Hey, I'm Rekik Samson
+# Hey, I'm Rekik Samson
 
-I turn ideas into AI-powered products using Python | Learning fast, building faster
-
----
-
-## 🚀 Current Focus
-- Building AI-powered tools and automation systems  
-- Improving my Python and problem-solving skills  
-- Learning UI/UX design with Figma  
+I’m a self-taught AI Engineer focused on building AI-driven tools and improving my problem-solving skills through hands-on projects.
 
 ---
 
-## 🧠 Projects
+## Current Focus
 
-🔹 Recommendation Engine  
-A system that generates suggestions based on user behavior and logic.
-
-🔹 Password Generator  
-A secure and customizable password generator built with Python.
-
-🔹 Mimobot  
-A chatbot combining rule-based logic with simple learning mechanisms to adapt responses.
+* Developing Python-based automation and AI systems
+* Strengthening problem-solving and programming fundamentals
+* Learning UI/UX design with Figma to build better user experiences
 
 ---
 
-## 🛠 Skills
-- Python  
-- AI & Automation (foundations)  
-- HTML, CSS, JavaScript (basics)  
-- UI/UX Design (Figma)  
+## Skills
+
+* Python
+* Automation & AI fundamentals
+* HTML, CSS, JavaScript (basics)
+* UI/UX Design (Figma)
 
 ---
 
-## 🎯 Goal
-To build real-world AI products and grow into a strong AI product engineer.
+## Goal
+
+To become an AI product engineer by building real-world systems that combine intelligent logic with practical user-focused design.
 
 ---
 
-## 📫 Contact
-- Email: rekiksamson5@gmail.com  
-- LinkedIn: www.linkedin.com/in/rekik-samson-679594402
+## Contact
+
+* Email: [rekiksamson5@gmail.com](mailto:rekiksamson5@gmail.com)
+* LinkedIn: [www.linkedin.com/in/rekik-samson-679594402](http://www.linkedin.com/in/rekik-samson-679594402)
