@@ -25,3 +25,5 @@ I’m a self-taught AI Engineer focused on building AI-driven tools and improvin
 
 To become an AI product engineer by building real-world systems that combine intelligent logic with practical user-focused design.
 
+---
+
