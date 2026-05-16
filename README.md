@@ -25,9 +25,3 @@ I’m a self-taught AI Engineer focused on building AI-driven tools and improvin
 
 To become an AI product engineer by building real-world systems that combine intelligent logic with practical user-focused design.
 
----
-
-## Contact
-
-* Email: [rekiksamson5@gmail.com](mailto:rekiksamson5@gmail.com)
-* LinkedIn: [www.linkedin.com/in/rekik-samson-679594402](www.linkedin.com/in/rekiksamson)
