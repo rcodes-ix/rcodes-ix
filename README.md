@@ -23,7 +23,7 @@ I’m a self-taught AI Engineer focused on building AI-driven tools and improvin
 
 ## Goal
 
-To become an AI product engineer by building real-world systems that combine intelligent logic with practical user-focused design.
+To become an AI Engineer by building real-world systems that combine intelligence with practical user-focused design to create meaningful products that solve real problems and bring lasting value to the world.
 
 ---
 
