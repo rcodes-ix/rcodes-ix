@@ -30,4 +30,4 @@ To become an AI product engineer by building real-world systems that combine int
 ## Contact
 
 * Email: [rekiksamson5@gmail.com](mailto:rekiksamson5@gmail.com)
-* LinkedIn: [www.linkedin.com/in/rekik-samson-679594402](http://www.linkedin.com/in/rekik-samson-679594402)
+* LinkedIn: [www.linkedin.com/in/rekik-samson-679594402](www.linkedin.com/in/rekiksamson)
