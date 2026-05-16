@@ -16,7 +16,7 @@ I’m a self-taught AI Engineer focused on building AI-driven tools and improvin
 
 * Python
 * Automation & AI fundamentals
-* HTML, CSS, JavaScript (basics)
+* HTML, CSS, JavaScript
 * UI/UX Design (Figma)
 
 ---
