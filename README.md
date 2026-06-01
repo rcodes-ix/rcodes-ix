@@ -1,17 +1,27 @@
 ## Hi, I'm Rekik (rcodes-ix)
 I’m a self-taught AI Engineer and UI/UX Designer who enjoys building intelligent tools with clean, thoughtful, user-focused experiences while learning through real-world projects.
+
 I spend most of my time improving my programming and problem-solving skills while exploring new technologies.
+
 I am passionate about intelligent systems, user-focused design, and creating products that solve real-world problems.
+
 I enjoy studying UI/UX design and analyzing how great products create simple, intuitive, and effective user experiences.
+
 I like exploring other people's work and finding inspiration from innovative projects, startups, and creative ideas.
+
 I am working toward becoming an engineer and founder who builds meaningful products that create lasting value.
 
 ## Fun Fact 🎯
 Curiosity is probably my strongest trait.
+
 I enjoy learning about everything from AI and design to Blender, language learning, and psychology.
+
 I love analyzing products, interfaces, and systems to understand what makes them work.
+
 I enjoy creating 3D models and animations in Blender.
+
 When something catches my interest, I tend to spend hours exploring it and learning everything I can about it.
+
 My biggest challenge is usually deciding which interest to focus on first.
 
 
