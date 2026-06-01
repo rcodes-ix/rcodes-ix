@@ -1,6 +1,7 @@
 ## Hi, I'm Rekik (rcodes-ix)
 
-I’m a self-taught AI Engineer and UI/UX Designer who enjoys building intelligent tools with clean, thoughtful, user-focused experiences while learning through real-world projects.
+I’m a self-taught AI Engineer and UI/UX Designer who enjoys building intelligent tools with clean, thoughtful,
+user-focused experiences while learning through real-world projects.
 
 I spend most of my time improving my programming and problem-solving skills while exploring new technologies.
 
