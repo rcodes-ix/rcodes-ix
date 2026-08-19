@@ -1,3 +1,8 @@
+<div align="center">
+  
+  <img src="./welcom-page/my-banner.png" alt="Rekik Samson">
+</div>
+
 ## Hi, I'm Rekik (rcodes-ix)
 
 I’m a self-taught AI Engineer and UI/UX Designer who enjoys building intelligent tools with clean, thoughtful,
