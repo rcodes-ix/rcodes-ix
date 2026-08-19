@@ -36,5 +36,10 @@ My biggest challenge is usually deciding which interest to focus on first.
 
 
 
+![snake gif](https://github.com/rcodes-ix/rcodes-ix/blob/output/github-snake-dark.svg)
+
+
+
+
 
 
