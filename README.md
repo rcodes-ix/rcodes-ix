@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./welcom-page/my-banner.png" alt="Rekik Samson">
+  <img src="./welcome-page/my-banner.png" alt="Rekik Samson">
 </div>
 
 ## Hi, I'm Rekik (rcodes-ix)
