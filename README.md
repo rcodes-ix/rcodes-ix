@@ -35,10 +35,7 @@ My biggest challenge is usually deciding which interest to focus on first.
 
 
 
-<div align="center
-  
-  ![snake gif](https://github.com/rcodes-ix/rcodes-ix/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/rcodes-ix/rcodes-ix/blob/output/github-snake-dark.svg)
 
 
 
