@@ -1,6 +1,9 @@
 <div align="center">
-  
-  <img src="./welcome-page/index.html" alt="Rekik Samson">
+
+  <a href="YOUR-GITHUB-PAGES-URL">
+      <img src="./banner.png" alt="Rekik Samson" width="100%">
+  </a>
+
 </div>
 
 ## Hi, I'm Rekik (rcodes-ix)
