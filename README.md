@@ -1,4 +1,4 @@
-![Rekik Samson](https://capsule-render.vercel.app/api?type=waving&color=0:05030c,30:1b1f9e,55:5c32c7,75:b82acb,100:e14c9d&height=230&section=header&text=Rekik%20Samson&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=20)
+![Rekik Samson](https://capsule-render.vercel.app/api?type=waving&color=0:05030c,30:1b1f9e,55:5c32c7,75:b82acb,100:e14c9d&height=230&section=header&text=Rekik%20Samson&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%/%AI%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=20)
 
 ---
 ## Hi, I'm Rekik (rcodes-ix)
